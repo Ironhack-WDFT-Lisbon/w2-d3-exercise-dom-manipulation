@@ -9,4 +9,4 @@
 7. Remove the previous input from the DOM via JS using removeChild().
 8. Remove the main tag form the DOM via JS.
 9. Comment the task on 8 so that you have the main tag again and create both a list and a click event for the button#add-item-button. This event will add a li element with "Item number " + item number
-10. Change the event listener to use as li item content the value of the input
+10. 10. Add another event listener to the li items and console log the content the li
